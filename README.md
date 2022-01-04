@@ -24,14 +24,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [MongoDB](https://www.mongodb.com/)
 * [Jwt](https://jwt.io/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 
 #### There are 2 admin levels:
 - **Admin:** Can add, delete,  modify users, products, view orders 
-= **User:**  Can view products, orders, and make orders
+- **User:**  Can view products, orders, and make orders
 
 ---
 
