@@ -3,7 +3,7 @@ Full Stack Ecom WebApp
 
 This is a Full Stack Ecommerce Webapplication powered by React, NodeJS and Express that provides the main functions you'd expect from a ecom webapp such as login, register, browse products, add products to cart, subscribe to newsletter, persist cart items on page reload, persist user login on page reload, stripe payment etc
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+![Chat Preview](https://imgur.com/R4jn9gt.png)
 
 ## Features
 - Material Design
@@ -12,6 +12,21 @@ This is a Full Stack Ecommerce Webapplication powered by React, NodeJS and Expre
 - JWT Authentication
 - Strip Payment
 - Other awesome features yet to be implemented
+
+---
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+* [React.js](https://reactjs.org/)
+* [Express.js](https://expressjs.com/)
+* [Javascript](https://www.javascript.com/)
+* [Redux.js](https://redux.js.org/)
+* [Stripe](https://stripe.com/en-in)
+* [MongoDB](https://www.mongodb.com/)
+* [Jwt](https://jwt.io/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 
 
 #### There are 2 admin levels:
